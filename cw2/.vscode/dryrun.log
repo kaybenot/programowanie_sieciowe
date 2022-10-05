@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/kamil/Desktop/programowanie_sieciowe/cw2'
+gcc -std=c99 -pedantic -Wall -o build/z5 z5.c
+make: Leaving directory '/home/kamil/Desktop/programowanie_sieciowe/cw2'
+ 

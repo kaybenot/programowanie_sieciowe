@@ -1,0 +1,6 @@
+man open.2
+man read.2
+man write.2
+man close.2
+
+return value 0 przy read oznacza koniec pliku (EOF)

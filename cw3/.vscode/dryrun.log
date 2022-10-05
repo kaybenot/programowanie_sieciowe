@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/kamil/Desktop/programowanie_sieciowe/cw3'
+gcc -std=c++17 -Wall -o build/server server.cpp -lstdc++
+make: Leaving directory '/home/kamil/Desktop/programowanie_sieciowe/cw3'
+ 
